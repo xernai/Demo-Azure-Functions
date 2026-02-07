@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demofunccoppel", "demofunccoppel\demofunccoppel.csproj", "{2EDC4C9F-F554-A15D-95A4-2CA676A4DEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDC4C9F-F554-A15D-95A4-2CA676A4DEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDC4C9F-F554-A15D-95A4-2CA676A4DEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDC4C9F-F554-A15D-95A4-2CA676A4DEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDC4C9F-F554-A15D-95A4-2CA676A4DEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB06584F-73C6-48A9-BA53-814AAB209C94}
+	EndGlobalSection
+EndGlobal
