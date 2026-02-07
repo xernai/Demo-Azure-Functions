@@ -42,5 +42,5 @@ jobs:
           app-name: 'demofunccoppel'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F53FB509089449599A23F428798C26C6 }}
+
